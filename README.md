@@ -23,3 +23,4 @@ bundle exec jekyll serve
 Released under MIT by, and copyright 2014 by WisdmLabs.
 
 Edited Readme
+edited
